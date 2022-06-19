@@ -12,7 +12,7 @@ public class varEx1 {
 		System.out.println(age);
 		
 		year = age+2000;
-		age = age+1;
+		age = age+2;
 		
 		System.out.println(year);
 		System.out.println(age);
