@@ -16,6 +16,7 @@ public class OperatorEx31 {
 		System.out.printf("%X%n", hex & mask);
 		hex = hex>>4;
 		System.out.printf("%X%n", hex & mask);
+
 	}
 
 }
